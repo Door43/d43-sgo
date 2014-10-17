@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sgo:home|Door43 (sgo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sgo|d43-sgo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sgo/archive/master.zip|d43-sgo.zip]]
+
+**Recent Changes**
+{{changes>ns = sgo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sgo|Ethnologue data]]
+
